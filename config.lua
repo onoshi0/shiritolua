@@ -1,9 +1,9 @@
 return {
     -- Goo API アプリケーション ID
-    yomiApiId = '768787791768977418',
+    yomiApiId = '5a0d3d25c8c600e31b6ba9625b1b350532f1f0cce6135b17f9689ebeb714e248',
 
     -- Discord トークン、Bot ページより取得
-    discordBotToken = 'NzY4Nzg3NzkxNzY4OTc3NDE4.X5FjbA.636J5KXxzsecOFqd5F7ZkzWbKDo',
+    discordBotToken = 'NzY4Nzg3NzkxNzY4OTc3NDE4.X5FjbA.oXNXcN14XTXtn7V6cHE0Z-w3aSY',
 
     -- 反応するチャンネル ID
     reactChannels = {
